@@ -1,0 +1,48 @@
+
+
+.searchbar{
+    padding: 10px 10px;
+}
+
+._btn{
+    background-color: #1dbf73;
+    color: #ffffff;
+    border-radius: 0px 5px 5px 0px;
+    box-shadow: none;
+    padding: 10px 20px ;
+}
+
+.nav{
+    padding: 15px 60px;
+    color: black;
+
+}
+.nav a{
+    text-decoration: none;
+}
+.btn2{
+    border: 2px solid black;
+    height: 38px;
+    margin-left: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    
+
+}
+.btn2 a{
+    text-decoration: none;
+    color: #222222;
+}
+
+h6 a{
+    text-decoration: none;
+}
+
+.section1{
+    text-align: center;
+}
+.text-section{{
+    width: 400px;
+    text-align:center;
+}
+}}
